@@ -17,7 +17,7 @@ LAB.CONFIG = {
   // URL de la implementación web de Apps Script que guarda los contactos en Google Sheets.
   // Mientras esté vacía, los contactos se guardan solo en el dispositivo (y en las computadoras
   // del stand se pueden exportar a CSV). También puede capturarse desde el panel de operador.
-  contactEndpoint: '',
+  contactEndpoint: 'https://script.google.com/macros/s/AKfycbxlF7i1h3GlVFuMnwboeUF5DxQ6-9dZLjHCm8hlyLrvczZGnccnwyW0tSJF-3IMMbiU/exec',
   // El celular es obligatorio antes de ver el resultado.
   celularObligatorio: true,
   // Supuestos de la calculadora (editables por el visitante en el resultado).
