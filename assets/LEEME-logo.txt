@@ -1,0 +1,17 @@
+LOGO MAESTRO
+============
+Coloca aquí el SVG maestro de MĒTODO con este nombre exacto:
+
+    logo-metodo.svg
+
+Usa la versión para FONDO OSCURO (logo en Niebla/blanco), porque la app
+tiene fondo Azul noche. Al recargar la app, el logo reemplaza automáticamente
+el texto provisional "MĒTODO" en el encabezado, el modo TV y el resumen
+descargable (en el resumen solo funciona si abres la app con el servidor local).
+
+FUENTES (opcional)
+==================
+Si tienes los archivos de Nimbus Sans, cópialos en assets/fonts/ con estos nombres:
+    NimbusSans-Regular.woff2  (o .otf)
+    NimbusSans-Bold.woff2     (o .otf)
+Si no están, la app usa Nimbus Sans instalada en la computadora o Arial.
